@@ -1,0 +1,6 @@
+{
+  "appId": "com.csc.rctracker.offline",
+  "appName": "RC Tracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
